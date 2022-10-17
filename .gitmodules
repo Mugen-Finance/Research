@@ -7,3 +7,6 @@
 [submodule "lib/openzeppelin-contracts"]
 	path = lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/sc_solidity-contracts"]
+	path = lib/sc_solidity-contracts
+	url = https://github.com/lindy-labs/sc_solidity-contracts
