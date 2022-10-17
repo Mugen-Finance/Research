@@ -2,4 +2,8 @@
 
 pragma solidity 0.8.15;
 
-contract Setup {}
+contract Setup {
+    //test for setup
+
+    constructor() {}
+}
