@@ -28,4 +28,3 @@
 <br>
 
 - "The Frax Protocol introduced the world to the concept of a cryptocurrency being partially backed by collateral and partially stabilized algorithmically. With the vision to create highly scalable, decentralized money in place of fixed-supply digital assets like BTC."
--
