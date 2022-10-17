@@ -4,3 +4,6 @@
 [submodule "lib/fraxlend"]
 	path = lib/fraxlend
 	url = https://github.com/FraxFinance/fraxlend
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
