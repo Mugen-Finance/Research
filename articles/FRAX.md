@@ -1,5 +1,9 @@
 # **Frax**
 
+### This article examines the interworkings of Frax Finance from a theoretical and technical perspective to give users an idea of how they have brought their protocol to life!
+
+<br>
+
 ## Resource Links
 
 1. **[Frax Website](https://frax.finance/)**
