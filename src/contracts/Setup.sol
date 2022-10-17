@@ -6,4 +6,6 @@ contract Setup {
     //test for setup
 
     constructor() {}
+
+    uint256 public x;
 }
