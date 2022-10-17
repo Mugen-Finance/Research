@@ -32,3 +32,10 @@
 <br>
 
 - "The Frax Protocol introduced the world to the concept of a cryptocurrency being partially backed by collateral and partially stabilized algorithmically. With the vision to create highly scalable, decentralized money in place of fixed-supply digital assets like BTC."
+
+### Code
+
+<br>
+The code examined in this article can be found within the src folder labeled under FRAX.
+<br>
+Each .sol file will contain the original code as well as detailed descriptions of what different functions, variables, modifiers, etc are doing.
